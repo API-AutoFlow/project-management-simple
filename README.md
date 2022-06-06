@@ -107,7 +107,7 @@ Follow the detailed instructions on the /__database__/README.md to run the datab
 Feel free to contribute on this repository. If my work helps you, please give me back with a star. This means a lot to me and keeps me going!
 
 
-## Contributors
+<!-- ## Contributors
 
  <ul class="list-style-none">
  {% for contributor in site.github.contributors %}
@@ -115,7 +115,7 @@ Feel free to contribute on this repository. If my work helps you, please give me
       <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
    </li>
  {% endfor %}
- </ul>
+ </ul> -->
 
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
