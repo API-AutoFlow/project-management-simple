@@ -23,9 +23,11 @@
 	<img src="https://github.com/API-AutoFlow/To-Do-Basic/blob/master/images/preview.gif">
 </p>
 
+<!--
 ## Live demo
 
 Check the live demo here 👉️ [https://www.interactor.com/demos/project-management-simple](https://www.interactor.com/demos/project-management-simple)
+-->
 
 ## Overview
 🚀 **This is a production ready and complete solution.  It can be modified for your needs and deployed in the environment of your choice.** 
